@@ -16,7 +16,7 @@ import FREsystem_params as fsys
 
 # Paths
 PATH_TOP = "data/normed_topologies/"
-PATH_AREA_DIC = "data/brain_area_dic/"
+PATH_AREA_DIC = "data/"
 
 # FRE Parameters:
 N = 88  # number of brain areas
