@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../FRE_multipopulation/.idea/FRE_multipopulation.iml" filepath="$PROJECT_DIR$/../FRE_multipopulation/.idea/FRE_multipopulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PhD/.idea/PhD.iml" filepath="$PROJECT_DIR$/../PhD/.idea/PhD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../myscratches/.idea/myscratches.iml" filepath="$PROJECT_DIR$/../myscratches/.idea/myscratches.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tools/.idea/tools.iml" filepath="$PROJECT_DIR$/../tools/.idea/tools.iml" />
+    </modules>
+  </component>
+</project>
