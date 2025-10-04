@@ -1,4 +1,4 @@
-[![DOI](https://img.shields.io/badge/Paper-Gerster%20et%20al.%202021-brightgreen)](https://doi.org/10.1063/5.0021420)
+[![DOI](https://img.shields.io/badge/Paper-Gerster%20et%20al.%202021-brightgreen)](https://doi.org/10.3389/fnsys.2021.675272)
 # Epileptic seizure propagation
 
 ### [Gerster2021](Gerster2021):
